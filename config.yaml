@@ -1,0 +1,6 @@
+fan_labels:
+  Fan1: "CPU Fan"
+  Fan2: "Rear Exhaust"
+  Fan3: "Top Radiator"
+  Fan4: "Bottom Intake"
+  Fan5: "Front Intake"
